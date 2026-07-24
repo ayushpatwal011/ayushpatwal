@@ -92,7 +92,7 @@ export const portfolioData = {
       title: "Fee Management System",
       description: "A backend-driven system for managing college fee records, payments, and student data. Built with Java and Spring Boot on a PostgreSQL database for reliable data handling.",
       stack: ["Java", "Spring Boot", "PostgreSQL", "SQL", "Backend"],
-      githublink: "https://github.com/ayushpatwal011/attendance",
+      githublink: "https://github.com/ayushpatwal011/fees-management-system-springboot",
       liveLink: "",
       githubIcon: "Github",
       liveIcon: "ExternalLink",
