@@ -121,14 +121,14 @@ export const portfolioData = {
       school: "AVN Public School, Kotdwar",
       degree: "12th CBSE",
       duration: "2023",
-      score: "75%"
+      // score: "75%"
     },
     {
       icon: "School",
       school: "AVN Public School, Kotdwar",
       degree: "10th CBSE",
       duration: "2021",
-      score: "84%"
+      // score: "84%"
     }
   ],
 
