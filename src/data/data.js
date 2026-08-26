@@ -58,6 +58,16 @@ export const portfolioData = {
       liveIcon: "ExternalLink",
       image: "/homework.png"
     },
+{
+  title: "AI Code Review Agent",
+  description: "An automated GitHub PR review bot that identify and then posts structured, severity-ranked review comments directly on pull requests. with eval score 96.7%",
+  stack: ["Python", "FastAPI", "Streamlit", "LangGraph", "LangChain", "OpenAI", "GitHub API"],
+  githublink: "https://github.com/ayushpatwal011/review-github-pr",
+  livelink: "https://ai-pr-review.streamlit.app/",
+  githubIcon: "Github",
+  liveIcon: "ExternalLink",
+  image: "/pr-review.png"
+},
     {
       title: "Web Builder AI",
       description: "An AI platform that turns a single text prompt into a fully built, deployed website. Uses a 6-agent pipeline to handle design, code, and deployment end-to-end.",
