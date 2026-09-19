@@ -22,7 +22,7 @@ const Main = ({
             {tagline}
           </p>
 
-          <div className="pt-2">
+          {/* <div className="pt-2">
             <a
               href={resumeUrl}
               download="Ayush_Patwal-Resume.pdf"
@@ -33,7 +33,7 @@ const Main = ({
               <Icon name={resumeIcon} className="w-4 h-4" />
               Download Resume
             </a>
-          </div>
+          </div> */}
         </div>
 
         {/* Right column: Main Profile Image */}
