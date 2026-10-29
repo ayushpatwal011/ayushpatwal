@@ -124,7 +124,7 @@ export const portfolioData = {
       school: "Bhagwant Global University, Kotdwar",
       degree: "BCA",
       duration: "2023–2026",
-      score: "CGPA 8.76/10"
+      score: "CGPA 8.81/10"
     },
     {
       icon: "School",
